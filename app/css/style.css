@@ -1,0 +1,18 @@
+.panel {
+	text-align: center;
+}
+
+img {
+	margin: 0 auto 15px auto;
+	border-radius: 50%;
+	display: block;
+}
+
+.form {
+	border: 1px solid #999;
+	border-radius: 5px;
+	min-height: 100px;
+	max-width: 450px;
+	margin: 0 auto;
+	text-align: left;
+}
